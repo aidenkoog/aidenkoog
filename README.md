@@ -6,5 +6,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on IoT project.
-- 🌱 I’m currently learning how to design React Native apps efficiently.
+- 🔭 I’m currently working on web and mobile app projects.
+- 🌱 I'm currently thinking about how to efficiently design web and mobile app architectures.
