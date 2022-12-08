@@ -1,6 +1,6 @@
 ### Hi, I am currently developing web and mobile apps. 👋
 
-<p align="center" style="background-color:black;">
+<p align="center" style="background-color: #000">
   <img src="logo2.png" width="1000" alt="accessibility text">
 </p>
 
