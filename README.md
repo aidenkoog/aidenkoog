@@ -1,11 +1,7 @@
 ### Hi, I am currently developing web and mobile apps. 👋
 
 <p align="center">
-<<<<<<< Updated upstream
-  <img src="logo.png" width="400" height="180" alt="accessibility text">
-=======
-  <img src="logo22.png" width="1000" alt="accessibility text">
->>>>>>> Stashed changes
+  <img src="logo2.png" width="1000" alt="accessibility text">
 </p>
 
 Here is what I'm doing these days:
