@@ -1,7 +1,7 @@
 ### Hi, I am currently developing web and mobile apps. 👋
 
 <p align="center" style="background-color: #000">
-  <img src="logo3.png" width="400" height="200" alt="accessibility text">
+  <img src="logo3.png" width="600" height="250" alt="accessibility text">
 </p>
 
 Here is what I'm doing these days:
