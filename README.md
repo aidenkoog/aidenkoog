@@ -1,6 +1,6 @@
 ### Hi, I am currently developing web and mobile apps. 👋
 I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
-- React, React native, Javascript, Typescript, HTML, CSS, Java, Kotlin, Python, Android, iOS, Swift, Flutter, Dart, Vue, Angular, Xamarin, C#, C/C++ And everything!!!
+- React, React native, Javascript, Typescript, HTML, CSS, Java, Kotlin, Python, Android, iOS, Swift, Flutter, Dart, Vue, Angular, Xamarin, C# and C/C++.
 - My current domain: Web Front End (React) / Cross Platform App (React native) / Android Native App
 
 <p align="center" style="background-color: #000">
