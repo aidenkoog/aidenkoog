@@ -4,7 +4,7 @@ I have been continuously studying and thinking about the domains written below t
 - My current domain: Web Front End (React) / Cross Platform App (React native) / Android Native App
 
 <p align="center" style="background-color: #000">
-  <img src="logo3.png" width="680" height="380" alt="accessibility text">
+  <img src="logo3.png" width="500" height="380" alt="accessibility text">
 </p>
 
 Here is what I'm doing these days:
