@@ -11,3 +11,4 @@
 - 2023/02/15: (7th) Added contact point section.
 - 2023/02/15: (8th) Changed etc skills section.
 - 2023/02/15: (9th) Added global style css setup.
+- 2023/02/15: (10th) Added CSS typography.
