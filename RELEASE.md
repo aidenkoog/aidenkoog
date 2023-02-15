@@ -7,3 +7,4 @@
 - 2023/02/15: (3rd) Added section named 'about me'.
 - 2023/02/15: (4th) Added my skillset information.
 - 2023/02/15: (5th) Added work related information.
+- 2023/02/15: (6th) Added testimonials section.
