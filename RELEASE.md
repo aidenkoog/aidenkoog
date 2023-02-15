@@ -9,3 +9,4 @@
 - 2023/02/15: (5th) Added work related information.
 - 2023/02/15: (6th) Added testimonials section.
 - 2023/02/15: (7th) Added contact point section.
+- 2023/02/15: (8th) Changed etc skills section.
