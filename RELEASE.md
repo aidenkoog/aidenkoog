@@ -10,3 +10,4 @@
 - 2023/02/15: (6th) Added testimonials section.
 - 2023/02/15: (7th) Added contact point section.
 - 2023/02/15: (8th) Changed etc skills section.
+- 2023/02/15: (9th) Added global style css setup.
