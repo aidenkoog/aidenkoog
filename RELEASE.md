@@ -13,3 +13,4 @@
 - 2023/02/15: (9th) Added global style css setup.
 - 2023/02/15: (10th) Added CSS typography.
 - 2023/02/15: (11th) Applied navigation bar css.
+- 2023/02/15: (12th) Applied home CSS style.
