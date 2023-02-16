@@ -302,6 +302,7 @@ p {
 
 .skillset__title {
   color: var(--color-white);
+  font-weight: 600;
 }
 
 .skillset__left {
@@ -421,7 +422,7 @@ p {
 }
 
 .project:hover .project__description {
-  opacity: 0.8;
+  opacity: 0.7;
   transform: translateY(0px);
 }
 
@@ -458,4 +459,47 @@ p {
   left: 50%;
   margin-top: 8px;
   margin-left: -12px;
+}
+
+/* Award & Testimonials. */
+#testimonials {
+  background-color: var(--color-light-white);
+}
+
+.testimonials {
+  margin: 40px;
+}
+
+.testimonial {
+  display: flex;
+  margin: 32px 0;
+  align-items: center;
+}
+
+.testimonial__avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.testimonial__avatar:nth-child(odd) {
+  margin-right: 40px;
+}
+
+.testimonial__avatar:nth-child(even) {
+  margin-left: 40px;
+}
+
+.testimonial__speech-bubble {
+  padding: 18px;
+  background-color: var(--color-white);
+  border-radius: var(--size-border-radius);
+}
+
+.testimonial__speech-bubble p {
+  color: var(--color-light-grey);
+}
+
+.testimonial__speech-bubble a {
+  color: var(--color-dark-pink);
 }
