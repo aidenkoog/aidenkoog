@@ -172,6 +172,10 @@ p {
 .section {
   padding: 50px;
   text-align: center;
+  margin: auto;
+}
+
+.section__container {
   max-width: 1200px;
   margin: auto;
 }
@@ -192,6 +196,11 @@ p {
   border: 1px solid var(--color-blue);
   border-radius: 50%;
   margin-bottom: 16px;
+  transition: all var(--animation-duration);
+}
+
+.major__icon:hover {
+  border-width: 2px;
 }
 
 /* i tag is going to be changed when major__icon div is hovered. */
@@ -204,9 +213,18 @@ p {
   transition: all var(--animation-duration) ease;
 }
 
+.major__title:hover {
+  color: var(--color-blue);
+}
+
+.major__description:hover {
+  color: var(--color-blue);
+}
+
 .major__title,
 .major__description {
   color: var(--color-dark-blue);
+  transition: all var(--animation-duration);
 }
 
 .major__description {
@@ -259,4 +277,75 @@ p {
 
 .job__description p {
   transition: all var(--animation-duration);
+}
+
+#skills {
+  background-color: var(--color-blue);
+}
+
+.skillset {
+  display: flex;
+  background-color: var(--color-light-grey);
+  color: var(--color-light-white);
+  margin: 20px 0;
+}
+
+.skillset__title {
+  color: var(--color-white);
+}
+
+.skillset__left {
+  flex-basis: 60%;
+  background-color: var(--color-dark-grey);
+  padding: 20px 40px;
+}
+
+.skill__bar {
+  display: flex;
+  background-color: var(--color-grey);
+  width: 100%;
+  height: 15px;
+  align-items: center;
+}
+
+.skill__value {
+  height: 8px;
+  background-color: var(--color-orange);
+  transition: all var(--animation-duration);
+}
+
+.skill__value:hover {
+  background-color: var(--color-dark-pink);
+  transform: scaleY(1.2);
+}
+
+.skill__description__object {
+  transition: all var(--animation-duration);
+}
+
+.skill__description__object:hover {
+  color: var(--color-orange);
+}
+
+.skill {
+  margin-bottom: 32px;
+}
+
+.skill__description {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skillset__right {
+  flex-basis: 40%;
+  background-color: var(--color-grey);
+}
+
+.tools {
+  background-color: var(--color-grey);
+}
+
+.tools,
+.etc {
+  padding: 20px;
 }

@@ -15,3 +15,4 @@
 - 2023/02/15: (11th) Applied navigation bar css.
 - 2023/02/15: (12th) Applied home CSS style.
 - 2023/02/16: (1st) Added about-me section's CSS style.
+- 2023/02/16: (2nd) Added skill-set section's CSS style.
