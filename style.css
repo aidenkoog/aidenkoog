@@ -12,6 +12,7 @@
   --color-light-grey: #7c7979;
   --color-blue: #73aace;
   --color-deep-blue: #2826bb;
+  --color-dark-blue: #15137b;
   --color-blue-hover: #4947eb;
   --color-yellow: #fff7d1;
   --color-orange: #feb546;
@@ -502,4 +503,42 @@ p {
 
 .testimonial__speech-bubble a {
   color: var(--color-dark-pink);
+}
+
+/* Contact */
+#contact {
+  background-color: var(--color-dark-blue);
+}
+
+.contact__title,
+.contact__email,
+.contact__rights {
+  color: var(--color-white);
+}
+
+.contact__title {
+  margin: 32px 0;
+}
+
+.contact__email {
+  transition: all var(--animation-duration) ease-out;
+  cursor: pointer;
+}
+
+.contact__email:hover {
+  color: var(--color-light-grey);
+}
+
+.contact__links {
+  font-size: var(--font-large);
+  margin: 24px 0;
+}
+
+.contact__links i {
+  transition: all var(--animation-duration) ease-in;
+}
+
+.contact__links i:hover {
+  transform: scale(1.2);
+  color: var(--color-light-grey);
 }

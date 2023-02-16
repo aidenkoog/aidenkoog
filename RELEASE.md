@@ -18,3 +18,4 @@
 - 2023/02/16: (2nd) Added skill-set section's CSS style.
 - 2023/02/16: (3rd) Added work project section's CSS style.
 - 2023/02/16: (4th) Added award & testimonials section's CSS style.
+- 2023/02/16: (5th) Added contact section's CSS style.
