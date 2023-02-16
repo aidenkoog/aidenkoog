@@ -12,7 +12,7 @@
   --color-light-grey: #7c7979;
   --color-blue: #73aace;
   --color-deep-blue: #2826bb;
-  --color-dark-blue: #15137b;
+  --color-dark-blue: #090842;
   --color-blue-hover: #4947eb;
   --color-yellow: #fff7d1;
   --color-orange: #feb546;
@@ -102,7 +102,7 @@ p {
 #navbar {
   display: flex;
   justify-content: space-between;
-  background-color: var(--color-black);
+  background-color: var(--color-dark-blue);
   align-items: center;
   color: var(--color-white);
   padding: 16px;
@@ -481,6 +481,14 @@ p {
   width: 150px;
   height: 150px;
   border-radius: 50%;
+  transition: all var(--animation-duration) ease;
+  cursor: pointer;
+}
+
+.testimonial__avatar:hover {
+  width: 200px;
+  height: 200px;
+  border: 2px solid var(--color-dark-pink);
 }
 
 .testimonial__avatar:nth-child(odd) {
@@ -503,6 +511,11 @@ p {
 
 .testimonial__speech-bubble a {
   color: var(--color-dark-pink);
+  transition: all var(--animation-duration) ease;
+}
+
+.testimonial__speech-bubble a:hover {
+  font-weight: 700;
 }
 
 /* Contact */

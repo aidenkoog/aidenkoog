@@ -19,3 +19,4 @@
 - 2023/02/16: (3rd) Added work project section's CSS style.
 - 2023/02/16: (4th) Added award & testimonials section's CSS style.
 - 2023/02/16: (5th) Added contact section's CSS style.
+- 2023/02/16: (6th) Customized work items / hover effect.
