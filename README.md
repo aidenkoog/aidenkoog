@@ -9,7 +9,7 @@ I have been continuously studying and thinking about the domains written below t
   - Flutter App Development
 
 <p align="center" style="background-color: #000">
-  <img src="main_logo.png" width="500" height="380" alt="accessibility text">
+  <img src="main_logo.png" width="700" height="380" alt="accessibility text">
 </p>
 
 Here is what I'm doing these days:
