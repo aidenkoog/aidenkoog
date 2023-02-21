@@ -38,6 +38,11 @@
           <li class="navbar__menu__item">Contact</li>
         </ul>
       </div>
+
+      <!-- Toggle Button -->
+      <button class="navbar__toggle-btn">
+        <i class="fa-solid fa-bars"></i>
+      </button>
     </nav>
 
     <!-- Home -->
@@ -233,201 +238,253 @@
 
     <!-- Work -->
     <section id="work" class="section">
-      <h1>My Work</h1>
-      <h3>Projects</h3>
-      <div class="work__categories">
-        <button class="category__btn active">
-          All<span class="category__count">12</span>
-        </button>
-        <button class="category__btn">
-          Front-end<span class="category__count">4</span>
-        </button>
-        <button class="category__btn">
-          Mobile-Native<span class="category__count">4</span>
-        </button>
-        <button class="category__btn">
-          Mobile-Cross-Platform<span class="category__count">4</span>
-        </button>
-      </div>
+      <div class="section__container">
+        <h1>My Work</h1>
+        <h3>Projects</h3>
+        <div class="work__categories">
+          <button class="category__btn active">
+            All<span class="category__count">12</span>
+          </button>
+          <button class="category__btn">
+            Front-end<span class="category__count">4</span>
+          </button>
+          <button class="category__btn">
+            Mobile-Native<span class="category__count">4</span>
+          </button>
+          <button class="category__btn">
+            Mobile-Cross-Platform<span class="category__count">4</span>
+          </button>
+        </div>
 
-      <div class="work__projects">
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with HTML, CSS and Javascript</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with HTML, CSS, Javascript and React library</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Kotlin, Java and Android framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
-        <a href="https://github.com/aidenkoog" class="project" target="_blank">
-          <img
-            src="images/projects/project.png"
-            alt="MyProject"
-            class="project__img"
-          />
-          <div class="project__description">
-            <h3>Site</h3>
-            <span>Coding with Javascript and React Native framework</span>
-          </div>
-        </a>
+        <div class="work__projects">
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with HTML, CSS and Javascript</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with HTML, CSS, Javascript and React library</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Kotlin, Java and Android framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+          <a
+            href="https://github.com/aidenkoog"
+            class="project"
+            target="_blank"
+          >
+            <img
+              src="images/projects/project.png"
+              alt="MyProject"
+              class="project__img"
+            />
+            <div class="project__description">
+              <h3>Site</h3>
+              <span>Coding with Javascript and React Native framework</span>
+            </div>
+          </a>
+        </div>
       </div>
     </section>
 
     <!-- Tesimonials -->
     <section id="testimonials" class="section">
-      <h1>Award & Testimonials</h1>
-      <h3>See what they say about me</h3>
-      <div class="testimonials">
-        <div class="testimonial">
-          <img
-            src="images/human.png"
-            alt="Coworker"
-            class="testimonial__avatar"
-          />
-          <div class="testimonial__speech-bubble">
-            <p>
-              Manager Koo Dong-wan changed and improved the communication method
-              of the Navien Mate app for the US to the MQTT protocol
-              communication method and successfully completed the app launch.
-            </p>
-            <p class="name">
-              <a href="https://www.kdnavien.co.kr">Mobile App Team</a>
-              / Navien Inc.
-            </p>
+      <div class="section__container">
+        <h1>Award & Testimonials</h1>
+        <h3>See what they say about me</h3>
+        <div class="testimonials">
+          <div class="testimonial">
+            <img
+              src="images/human.png"
+              alt="Coworker"
+              class="testimonial__avatar"
+            />
+            <div class="testimonial__speech-bubble">
+              <p>
+                Manager Koo Dong-wan changed and improved the communication
+                method of the Navien Mate app for the US to the MQTT protocol
+                communication method and successfully completed the app launch.
+              </p>
+              <p class="name">
+                <a href="https://www.kdnavien.co.kr">Mobile App Team</a>
+                / Navien Inc.
+              </p>
+            </div>
           </div>
-        </div>
-        <div class="testimonial">
-          <div class="testimonial__speech-bubble">
-            <p>
-              From 2012 to 2013, Koo Dong-wan, a university student, completed
-              the development of a modeling tool in the Java language while
-              diligently conducting a research project on business software
-              integrated modeling methods.
-            </p>
-            <p class="name">
-              <a href="https://www.knu.ac.kr/"
-                >Kyungpook National University (KNU)</a
-              >
-            </p>
+          <div class="testimonial">
+            <div class="testimonial__speech-bubble">
+              <p>
+                From 2012 to 2013, Koo Dong-wan, a university student, completed
+                the development of a modeling tool in the Java language while
+                diligently conducting a research project on business software
+                integrated modeling methods.
+              </p>
+              <p class="name">
+                <a href="https://www.knu.ac.kr/"
+                  >Kyungpook National University (KNU)</a
+                >
+              </p>
+            </div>
+            <img
+              src="images/human.png"
+              alt="Coworker"
+              class="testimonial__avatar"
+            />
           </div>
-          <img
-            src="images/human.png"
-            alt="Coworker"
-            class="testimonial__avatar"
-          />
         </div>
       </div>
     </section>
