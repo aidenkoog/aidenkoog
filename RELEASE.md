@@ -23,3 +23,4 @@
 - 2023/02/21: Applied media query for various screen.
 - 2023/02/22: Changed main logo image.
 - 2023/02/22: Fix window scrollY mistake (scrollY() --> scrollY)
+- 2023/02/22: Applied dynamic effect to navigation bar.
