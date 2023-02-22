@@ -24,3 +24,4 @@
 - 2023/02/22: Changed main logo image.
 - 2023/02/22: Fix window scrollY mistake (scrollY() --> scrollY)
 - 2023/02/22: Applied dynamic effect to navigation bar.
+- 2023/02/22: Added logic to navigate to the corresponding section when a navigation bar item is clicked.
