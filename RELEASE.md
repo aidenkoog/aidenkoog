@@ -21,8 +21,9 @@
 - 2023/02/16: (5th) Added contact section's CSS style.
 - 2023/02/16: (6th) Customized work items / hover effect.
 - 2023/02/21: Applied media query for various screen.
-- 2023/02/22: Changed main logo image.
-- 2023/02/22: Fix window scrollY mistake (scrollY() --> scrollY)
-- 2023/02/22: Applied dynamic effect to navigation bar.
-- 2023/02/22: Added logic to navigate to the corresponding section when a navigation bar item is clicked.
-- 2023/02/22: Added logic to navigate to contact section when contact button on home section is pressed.
+- 2023/02/22: (1st) Changed main logo image.
+- 2023/02/22: (2nd) Fix window scrollY mistake (scrollY() --> scrollY)
+- 2023/02/22: (3rd) Applied dynamic effect to navigation bar.
+- 2023/02/22: (4th) Added logic to navigate to the corresponding section when a navigation bar item is clicked.
+- 2023/02/22: (5th) Added logic to navigate to contact section when contact button on home section is pressed.
+- 2023/02/22: (6th) Added logic to make home contents transparent when page is scrolled from top of page.
