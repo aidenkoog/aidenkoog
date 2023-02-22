@@ -25,3 +25,4 @@
 - 2023/02/22: Fix window scrollY mistake (scrollY() --> scrollY)
 - 2023/02/22: Applied dynamic effect to navigation bar.
 - 2023/02/22: Added logic to navigate to the corresponding section when a navigation bar item is clicked.
+- 2023/02/22: Added logic to navigate to contact section when contact button on home section is pressed.
