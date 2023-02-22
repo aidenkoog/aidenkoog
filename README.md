@@ -43,3 +43,4 @@ If you are interested in information about me or other activities, please access
 | Plugin      | LINK                                     |
 | ----------- | ---------------------------------------- |
 | Github page | [https://aidenkoog.github.io/aidenkoog/] |
+| LinkedIn | [https://www.linkedin.com/in/dongwan-koo-2041bb13b/] |
