@@ -8,11 +8,11 @@ I have been continuously studying and thinking about the domains written below t
   - Android, iOS Mobile Native App Development
   - Flutter Mobile App Development
   
-**- Programming language** I've used
+**- Programming languages** I've used
   - Kotlin, Java, Swift
   - Typescript, Javascript, HTML, CSS, Dart
   
-**- Frameworks or libraries **I've used
+**- Frameworks or libraries** I've used
   - React, Vue, Angular
   - React-Native, Flutter
   - Android, iOS
