@@ -27,3 +27,4 @@
 - 2023/02/22: (4th) Added logic to navigate to the corresponding section when a navigation bar item is clicked.
 - 2023/02/22: (5th) Added logic to navigate to contact section when contact button on home section is pressed.
 - 2023/02/22: (6th) Added logic to make home contents transparent when page is scrolled from top of page.
+- 2023/02/22: (7th) Added arrow up button.
