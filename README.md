@@ -3,26 +3,21 @@
 I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
 
 - My domain:
-  - (Current) React Web Front End Development
-  - (Current) React Native Development
+  - **(Current)** React Web Front End Development
+  - **(Current)** React Native Development
   - Android Native Mobile, OTT and Wear-OS App Development
   - iOS Mobile App Development
   - Flutter Mobile App Development
   
 - Programming language I've used
-  - Kotlin, Java
-  - Typescript, Javascript
-  - HTML, CSS
-  - Swift
-  - Dart
+  - Kotlin, Java, Swift
+  - Typescript, Javascript, HTML, CSS, Dart
   - C, C++, C#
   
 - Frameworks or libraries I've used
   - React, Vue, Angular
-  - React-Native
-  - Android / Android-Wear-OS
-  - iOS
-  - Flutter
+  - React-Native, Flutter
+  - Android / Android-Wear-OS, iOS
 
 <p align="center" style="background-color: #000">
   <img src="main_logo.png" width="500" height="244" alt="accessibility text">
