@@ -40,7 +40,7 @@ I have been continuously studying and thinking about the domains written below t
 
 If you are interested in information about me or other activities, please access the link below.
 
-| Plugin      | LINK                                     |
+| **Page**      | **LINK**                                     |
 | ----------- | ---------------------------------------- |
-| Github page | [https://aidenkoog.github.io/aidenkoog/] |
-| LinkedIn | [https://www.linkedin.com/in/dongwan-koo-2041bb13b/] |
+| **Github page** | [https://aidenkoog.github.io/aidenkoog/] |
+| **LinkedIn** | [https://www.linkedin.com/in/dongwan-koo-2041bb13b/] |
