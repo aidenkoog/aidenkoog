@@ -3,8 +3,9 @@
 I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
 
 **- My domain:**
-  - **(Current)** **React Web Front End** Development
-  - **(Current)** **React Native** Development
+  - **(Present)** **React Web Front End** Development 
+  - **(Present)** **React Native** Development
+    - **(Present) Typescript, Javascript, HTML, CSS** 
   - Android, iOS Mobile Native App Development
   - Flutter Mobile App Development
   
