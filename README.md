@@ -19,7 +19,7 @@ I have been continuously studying and thinking about the domains written below t
   - Android, iOS
 
 <p align="center" style="background-color: #000">
-  <img src="main_logo.png" width="500" height="244" alt="accessibility text">
+  <img src="main_logo.png" alt="accessibility text">
 </p>
 
 Here is what I'm doing these days:

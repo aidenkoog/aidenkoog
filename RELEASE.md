@@ -21,3 +21,4 @@
 - 2023/02/16: (5th) Added contact section's CSS style.
 - 2023/02/16: (6th) Customized work items / hover effect.
 - 2023/02/21: Applied media query for various screen.
+- 2023/02/22: Changed main logo image.
