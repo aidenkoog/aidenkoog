@@ -32,3 +32,4 @@
 - 2023/02/24 : Deleted static active option.
 - 2023/02/24 : Applied media query for small screen size to navigation bar.
 - 2023/02/24 : Update entire component's attributes.
+- 2023/02/24 : Fix navigation html errors.
