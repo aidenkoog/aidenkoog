@@ -160,7 +160,8 @@ p {
 
 /* Home */
 #home {
-  background: url("images/background.png") center/cover no-repeat;
+  /* background: url("images/background.png") center/cover no-repeat; */
+  background-color: #1c1158;
   padding: 40px;
   padding-top: 120px;
   text-align: center;
@@ -407,7 +408,7 @@ p {
 .category__btn.selected .category__count,
 .category__btn:hover .category__count {
   opacity: 1;
-  top: 0;
+  top: 5px;
 }
 
 .category__count {

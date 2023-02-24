@@ -31,5 +31,6 @@
 - 2023/02/24: Added animation occurred when pressing project / Added project tab click event.
 - 2023/02/24 : Deleted static active option.
 - 2023/02/24 : Applied media query for small screen size to navigation bar.
-- 2023/02/24 : Update entire component's attributes.
-- 2023/02/24 : Fix navigation html errors.
+- 2023/02/24 : Updated entire component's attributes.
+- 2023/02/24 : Fixed navigation html errors.
+- 2023/02/24 : Fixed project's count icon position issue. / Changed background image.
