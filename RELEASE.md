@@ -37,3 +37,4 @@
 - 2023/02/24 : Changed work related contents.
 - 2023/02/24 : Set top margin of section (Not corresponding to mobile screen)
 - 2023/02/24 : Update my skills content.
+- 2023/02/24 : Applied dynamic selection about navigation bar.
