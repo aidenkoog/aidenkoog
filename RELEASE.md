@@ -34,3 +34,4 @@
 - 2023/02/24 : Updated entire component's attributes.
 - 2023/02/24 : Fixed navigation html errors.
 - 2023/02/24 : Fixed project's count icon position issue. / Changed background image.
+- 2023/02/24 : Changed work related contents.

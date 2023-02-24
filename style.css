@@ -174,6 +174,7 @@ p {
   opacity: 80%;
   border: 2px solid var(--color-light-white);
   transition: all var(--animation-duration);
+  cursor: pointer;
 }
 
 .home__avatar:hover {
@@ -234,6 +235,7 @@ p {
 
 .major__icon:hover {
   border-width: 2px;
+  cursor: pointer;
 }
 
 /* i tag is going to be changed when major__icon div is hovered. */
@@ -525,7 +527,7 @@ p {
 .testimonial__avatar:hover {
   width: 200px;
   height: 200px;
-  border: 2px solid var(--color-dark-pink);
+  border: 2px solid var(--color-dark-blue);
 }
 
 .testimonial__avatar:nth-child(odd) {
