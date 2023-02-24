@@ -29,3 +29,4 @@
 - 2023/02/22: (6th) Added logic to make home contents transparent when page is scrolled from top of page.
 - 2023/02/22: (7th) Added arrow up button.
 - 2023/02/24: Added animation occurred when pressing project / Added project tab click event.
+- 2023/02/24 : Deleted static active option.
