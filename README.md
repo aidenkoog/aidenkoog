@@ -27,6 +27,10 @@ I have been continuously studying and thinking about the domains written below t
   - React-Native, Flutter
   - Android, iOS
 
+#### Skill Status
+<p align="center" style="background-color: #000">
+  <img src="myskills.png" alt="accessibility text">
+</p>
 
 #### what I'm doing these days:
 
