@@ -1,4 +1,4 @@
-### Hi, I am currently developing web and mobile apps. 👋
+### Hi, I am currently developing client applications. 👋
 
 
 I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
@@ -12,14 +12,15 @@ I have been continuously studying and thinking about the domains written below t
   - **(Present)** **React Web Front End** Development 
   - **(Present)** **React Native** Development
   - **(Present)** **Android Native** App Development
-  - iOS Native App Development
-  - Flutter App Development
+  - **(Present)** **iOS Native** App Development
+  - **(Present)** **Flutter** App Development
 
 
 #### Programming languages I've used:
 
   - Kotlin, Java, Swift
   - Typescript, Javascript, HTML, CSS, Dart
+  - Python
 
 
 #### Frameworks or libraries I've used:
