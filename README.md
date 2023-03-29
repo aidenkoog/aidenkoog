@@ -10,9 +10,9 @@ I have been continuously studying and thinking about the domains written below t
 #### My Domain:
 
   - **(Present)** **React Web Front End** Development 
-  - **(Present)** **React Native** Development
-  - **(Present)** **Android Native** App Development
-  - **(Present)** **iOS Native** App Development
+  - **React Native** Development
+  - **Android Native** App Development
+  - **iOS Native** App Development
   - **(Present)** **Flutter** App Development
 
 
