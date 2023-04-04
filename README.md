@@ -11,7 +11,7 @@ I have been continuously studying and thinking about the domains written below t
 
   - **(Present)** **React Web Front End** Development 
   - **(Present)** **Flutter** App Development
-  - **React Native** Development
+  - **(Present)** **React Native** Development
   - **Android Native** App Development
   - **iOS Native** App Development
 
