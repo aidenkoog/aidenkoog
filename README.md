@@ -46,5 +46,3 @@ If you are interested in information about me or other activities, please access
 | ----------- | ---------------------------------------- |
 | **Github page** | [https://aidenkoog.github.io/] |
 | **LinkedIn** | [https://www.linkedin.com/in/dongwan-koo-2041bb13b/] |
-| **Facebook** | [https://www.facebook.com/profile.php?id=100090974486170&mibextid=LQQJ4d/] |
-| **Instagram** | [https://instagram.com/aidenkoog?igshid=YmMyMTA2M2Y=/] |
