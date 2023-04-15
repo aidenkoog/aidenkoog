@@ -9,7 +9,7 @@ I have been continuously studying and thinking about the domains written below t
 
 #### My Domain:
 
-  - **(Present)** **Cross Platform App** Development
+  - **(Present)** **Cross Platform App & Web front-end** Development
     - React-Native, Flutter, React Web Front-end 
   - **Android Native** App Development
   - **iOS Native** App Development
