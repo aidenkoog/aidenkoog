@@ -9,10 +9,8 @@ I have been continuously studying and thinking about the domains written below t
 
 #### My Domain:
 
-  - **(Present)** **Cross Platform App & Web front-end** Development
-    - React-Native, Flutter, React Web Front-end 
+  - **(Present)** **React, Flutter App & Web
   - **Android Native** App Development
-  - **iOS Native** App Development
 
 
 #### Programming languages I've used:
