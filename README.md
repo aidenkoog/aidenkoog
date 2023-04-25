@@ -15,16 +15,17 @@ I have been continuously studying and thinking about the domains written below t
 
 #### Programming languages I've used:
 
-  - Kotlin, Java, Swift
-  - Typescript, Javascript, HTML, CSS, Dart
+  - Kotlin, Java
+  - Typescript, Javascript, HTML, CSS, 
+  - Dart
   - Python
 
 
 #### Frameworks or libraries I've used:
 
-  - React, Vue, Angular
-  - React-Native, Flutter
-  - Android, iOS
+  - React, React-Native
+  - Flutter
+  - Android
 
 
 #### what I'm doing these days:
