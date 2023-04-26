@@ -1,4 +1,9 @@
-## Release Note
+### My portfolio website
+
+- This website showcases my career.
+  - Website is based on llie's lecture.
+
+### Release Note
 
 - 2023/02/14: Deleted previous source code / Added meta code.
 - 2023/02/14: (2nd) Initialize project (HEAD + related files)
@@ -38,3 +43,15 @@
 - 2023/02/24 : Set top margin of section (Not corresponding to mobile screen)
 - 2023/02/24 : Update my skills content.
 - 2023/02/24 : Applied dynamic selection about navigation bar.
+- 2023/03/11 : Added another styled home page source files.
+- 2023/03/11 : Deleted macOS related files (unused files) / Added .gitignore.
+- 2023/04/26 : Updated portfolio webpage content / files
+
+#### Link:
+
+If you are interested in information about me or other activities, please access the link below.
+
+| **Page**        | **LINK**                                             |
+| --------------- | ---------------------------------------------------- |
+| **Github page** | [https://aidenkoog.github.io/]             |
+| **LinkedIn**    | [https://www.linkedin.com/in/dongwan-koo-2041bb13b/] |
