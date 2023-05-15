@@ -1,4 +1,4 @@
-### Hi, I am currently developing Flutter applications. 👋
+### Hi, I am currently developing client applications. 👋
 
 
 I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
