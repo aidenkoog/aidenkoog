@@ -10,7 +10,7 @@ I have been continuously studying and thinking about the domains written below t
 #### My Domain:
 
   - **(Present)** **React, Flutter** App & Web
-  - **Android Native** App Development
+  - **(Present)** **Android Native** Mobile App Development
 
 
 #### Programming languages I've used:
@@ -18,7 +18,6 @@ I have been continuously studying and thinking about the domains written below t
   - Kotlin, Java
   - Typescript, Javascript, HTML, CSS, 
   - Dart
-  - Python
 
 
 #### Frameworks or libraries I've used:
