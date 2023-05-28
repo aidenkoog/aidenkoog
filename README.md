@@ -9,7 +9,7 @@ I have been continuously studying and thinking about the domains written below t
 
 #### My Domain:
 
-  - **(Present)** **React, Flutter** App & Web
+  - **React, Flutter** App & Web
   - **(Present)** **Android Native** Mobile App Development
 
 
