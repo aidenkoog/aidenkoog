@@ -9,13 +9,13 @@ I have been continuously studying and thinking about the domains written below t
 
 #### My Domain:
 
-  - **React, Flutter** App & Web
-  - **(Present)** **Android Native** Mobile App Development
+  - **React, React-Native, Flutter** App & Web
+  - **Android, iOS Native** Mobile App Development
 
 
 #### Programming languages I've used:
 
-  - Kotlin, Java
+  - Kotlin, Java, Swift
   - Typescript, Javascript, HTML, CSS, 
   - Dart
 
@@ -24,7 +24,7 @@ I have been continuously studying and thinking about the domains written below t
 
   - React, React-Native
   - Flutter
-  - Android
+  - Android, iOS
 
 
 #### what I'm doing these days:
