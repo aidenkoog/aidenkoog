@@ -13,12 +13,12 @@ I have been continuously studying and thinking about the domains written below t
   - **Android, iOS Native** Mobile App Development
 
 
-#### Programming languages I've used:
+#### Programming languages:
 
   - Kotlin, Java, Swift, Typescript, Javascript, HTML, CSS, Dart
 
 
-#### Frameworks or libraries I've used and I've been using:
+#### Frameworks or libraries:
 
   - React, React-Native, Flutter, Android, iOS
 
