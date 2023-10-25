@@ -1,10 +1,6 @@
 ### Hi, I am currently developing client applications. 👋
 
-
-I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
-<p align="center" style="background-color: #d3d3d3">
-  <img src="main_logo.png" width="150" height="150" alt="accessibility text">
-</p>
+- I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
 
 
 #### My Domain:
