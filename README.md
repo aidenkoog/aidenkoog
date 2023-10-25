@@ -5,8 +5,8 @@
 
 #### ✔ My Domain:
 
-  - **React, React-Native, Flutter** Cross platform App & Web
-  - **Android, iOS Native** Mobile App Development
+  - React, React-Native, Flutter Cross platform App & Web
+  - Android, iOS Native Mobile App Development
 
 
 #### ✔ Programming languages:
