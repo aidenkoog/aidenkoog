@@ -1,25 +1,25 @@
-✔ ### Hi, I am currently developing client applications. 👋
+### ✔ Hi, I am currently developing client applications. 👋
 
 - I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
 
 
-✔ #### My Domain:
+#### ✔ My Domain:
 
   - **React, React-Native, Flutter** Cross platform App & Web
   - **Android, iOS Native** Mobile App Development
 
 
-✔ #### Programming languages:
+#### ✔ Programming languages:
 
   - Kotlin, Java, Swift, Typescript, Javascript, HTML, CSS, Dart
 
 
-✔ #### Frameworks or libraries:
+#### ✔ Frameworks or libraries:
 
   - React, React-Native, Flutter, Android, iOS
 
 
-✔ #### what I'm doing these days:
+#### ✔ What I'm doing these days:
 
 - 🔭 I’m presently working on web and mobile app projects.
 - 🌱 I'm currently thinking about how to efficiently design web and mobile app architectures.
@@ -27,7 +27,7 @@
 - 🌱 I'm now developing various types of new mobile and web applications.
 
 
-✔ #### My Main Projects
+#### ✔ My Main Projects
 - GitHub Links
   - https://github.com/aidenkoog/awesome-hello-world 
   - https://github.com/aidenkoog/awesome-react-web-page
@@ -40,7 +40,7 @@
   - https://github.com/aidenkoog/awesome-android 
 
 
-✔ #### Link:
+#### ✔ Link:
 
 If you are interested in information about me or other activities, please access the link below.
 
