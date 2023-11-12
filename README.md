@@ -29,6 +29,11 @@
 
 #### ✔ My Main Projects
 - GitHub Links
+  - https://github.com/aidenkoog/app-architecture
+  - https://github.com/aidenkoog/awesome-til-today-i-learned
+  - https://github.com/aidenkoog/ble-manager-module
+  - https://github.com/aidenkoog/programming-practice
+- GitHub Links (To be updated)
   - https://github.com/aidenkoog/awesome-hello-world 
   - https://github.com/aidenkoog/awesome-react-web-page
   - https://github.com/aidenkoog/awesome-algorithm-problem-solving 
