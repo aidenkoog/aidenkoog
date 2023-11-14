@@ -6,17 +6,17 @@
 #### ✔ My Domain:
 
   - React, React-Native, Flutter Cross platform App & Web
-  - Android, iOS Native Mobile App Development
+  - Android Native Mobile App Development
 
 
 #### ✔ Programming languages:
 
-  - Kotlin, Java, Swift, Typescript, Javascript, HTML, CSS, Dart
+  - Kotlin, Java, Typescript, Javascript, HTML, CSS, Dart
 
 
 #### ✔ Frameworks or libraries:
 
-  - React, React-Native, Flutter, Android, iOS
+  - React, React-Native, Flutter, Android
 
 
 #### ✔ What I'm doing these days:
