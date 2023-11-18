@@ -36,7 +36,6 @@
 - GitHub Links (To be updated)
   - https://github.com/aidenkoog/awesome-hello-world 
   - https://github.com/aidenkoog/awesome-react-web-page
-  - https://github.com/aidenkoog/awesome-algorithm-problem-solving 
   - https://github.com/aidenkoog/awesome-flutter 
   - https://github.com/aidenkoog/awesome-ios 
   - https://github.com/aidenkoog/awesome-react-native 
