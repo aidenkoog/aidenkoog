@@ -33,16 +33,13 @@
   - https://github.com/aidenkoog/awesome-til-today-i-learned
   - https://github.com/aidenkoog/ble-manager-module
   - https://github.com/aidenkoog/programming-practice
+  - https://github.com/aidenkoog/awesome-hello-world
 - GitHub Links (To be updated)
-  - https://github.com/aidenkoog/awesome-hello-world 
-  - https://github.com/aidenkoog/awesome-react-web-page
-  - https://github.com/aidenkoog/awesome-flutter 
-  - https://github.com/aidenkoog/awesome-ios 
-  - https://github.com/aidenkoog/awesome-react-native 
+  - https://github.com/aidenkoog/awesome-app-architecture
   - https://github.com/aidenkoog/awesome-til-today-i-learned 
+  - https://github.com/aidenkoog/awesome-hello-world
   - https://github.com/aidenkoog/awesome-programming-practice 
-  - https://github.com/aidenkoog/awesome-android 
-
+  
 
 #### ✔ Link:
 
