@@ -20,7 +20,7 @@
 
 #### ✔ Toy Projects:
 
-  - https://github.com/aidenkoog/devtoyprojects
+  - https://github.com/aidenkoog/toy-programming
 
 
 #### ✔ What I'm doing these days:
