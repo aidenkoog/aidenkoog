@@ -1,26 +1,23 @@
-### ✔ Hi, I am currently developing client applications. 👋
+### ✔ Developer Koo 👋
 
 - I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
 
 
 #### ✔ My Domain:
 
-  - React, React-Native, Flutter Cross platform App & Web
-  - Android Native Mobile App Development
+  - Android
+  - Flutter
 
 
 #### ✔ Programming languages:
 
-  - Kotlin, Java, Typescript, Javascript, HTML, CSS, Dart
+  - Kotlin, Java, Typescript, Javascript, HTML, CSS, Dart, Python, C / C++
 
 
 #### ✔ Frameworks or libraries:
 
   - React, React-Native, Flutter, Android
 
-#### ✔ Toy Projects:
-
-  - https://github.com/aidenkoog/toy-programming
 
 
 #### ✔ What I'm doing these days:
