@@ -1,4 +1,4 @@
-### ✔ Developer Koo 👋
+### Hello, I'm Developer Koo 👋
 
 - I have been continuously studying and thinking about the domains written below to improve my understanding and technical skills.
 
