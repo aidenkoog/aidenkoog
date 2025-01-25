@@ -1,9 +1,10 @@
-### Hello, I'm Developer AidenKoo 👋
+### Hello, I'm software engineer AidenKoo. 👋
 
 #### ✔ My Domain:
 
-  - 🌱 Android Mobile App
-  - 🌱 Flutter Web, Mobile App
+  - 🌱 Android Native Mobile, OTT, TV, Kiosk, DID App
+  - 🌱 iOS Native App
+  - 🌱 Flutter Web, PC, Mobile App
   - 🌱 React Web
   - 🌱 React Native Mobile App
 
@@ -15,7 +16,7 @@
 
 #### ✔ Frameworks or libraries:
 
-  - 🌱 React.js, React-Native, Vue.js, Three.js, Flutter, Android
+  - 🌱 React.js, React-Native, Vue.js, Three.js, Flutter, Android, iOS
 
 #### ✔ Link:
 
