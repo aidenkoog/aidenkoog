@@ -1,29 +1,21 @@
-### Hello, I'm Developer Koo 👋
+### Hello, I'm Developer AidenKoo 👋
 
 #### ✔ My Domain:
 
-  - Android
-  - Flutter
-
+  - 🌱 Android Mobile App
+  - 🌱 Flutter Web, Mobile App
+  - 🌱 React Web
+  - 🌱 React Native Mobile App
 
 #### ✔ Programming languages:
 
-  - Kotlin, Java, Typescript, Javascript, HTML, CSS, Dart, Python, C / C++
-
+  - 🌱 Kotlin, Java
+  - 🌱 Typescript, Javascript, HTML, CSS
+  - 🌱 Dart, Python, C / C++
 
 #### ✔ Frameworks or libraries:
 
-  - React, React-Native, Flutter, Android
-
-
-
-#### ✔ What I'm doing these days:
-
-- 🔭 I’m presently working on web and mobile app projects.
-- 🌱 I'm currently thinking about how to efficiently design web and mobile app architectures.
-- 🔭 I'm recently organizing a technique I've been using on a project I've been working on.
-- 🌱 I'm now developing various types of new mobile and web applications.
-  
+  - 🌱 React.js, React-Native, Vue.js, Three.js, Flutter, Android
 
 #### ✔ Link:
 
