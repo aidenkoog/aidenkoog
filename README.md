@@ -10,7 +10,7 @@
 
 #### ✔ Programming languages:
 
-  - 🌱 Kotlin, Java
+  - 🌱 Kotlin, Java, Swift
   - 🌱 Typescript, Javascript, HTML, CSS
   - 🌱 Dart, Python, C / C++
 
