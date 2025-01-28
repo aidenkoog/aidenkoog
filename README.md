@@ -2,11 +2,11 @@
 
 #### ✔ My Domain:
 
-  - 🌱 Android Native Mobile, OTT, TV, Kiosk, DID App
+  - 🌱 Android Native App
   - 🌱 iOS Native App
-  - 🌱 Flutter Web, PC, Mobile App
+  - 🌱 Flutter Web, App
   - 🌱 React Web
-  - 🌱 React Native Mobile App
+  - 🌱 React Native App
 
 #### ✔ Programming languages:
 
