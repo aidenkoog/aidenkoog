@@ -1,5 +1,3 @@
-### Hello, I'm software engineer AidenKoo. 👋
-
 #### ✔ My Domain:
 
   - 🌱 Android Native App
